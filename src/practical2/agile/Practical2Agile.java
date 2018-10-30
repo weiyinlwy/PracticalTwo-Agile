@@ -18,6 +18,7 @@ public class Practical2Agile {
         // TODO code application logic here
         System.out.println("Hello World!!!!");
         System.out.println("I Love U");
+        System.out.println("Can you be my girl friend?");
     }
     
 }
